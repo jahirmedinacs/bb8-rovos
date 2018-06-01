@@ -1,4 +1,4 @@
-timezone:    Europe/Berlin
+timezone:    America/Sao Paulo
 future:      false
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
@@ -6,7 +6,6 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
-baseurl: /bb8-rovos
 
 kramdown:
   smart_quotes: sbquo,lsquo,bdquo,ldquo
@@ -14,9 +13,9 @@ kramdown:
 #gems:
 #  - jemoji
 
-title:       re:claim your blog engine
-author:      Thomas Friese
-description: Presentation für die rp14
+title:       BB-8
+author:      Jahir Medina
+description: How it Works?
 
 sass:
   style:     :compressed
