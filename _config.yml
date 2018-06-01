@@ -6,6 +6,7 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
+baseurl: /bb8-rovos
 
 kramdown:
   smart_quotes: sbquo,lsquo,bdquo,ldquo
