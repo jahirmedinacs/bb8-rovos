@@ -24,12 +24,12 @@ data:
 
 <section>
     <center>
-        <img src="../media/bb8-introduction/bb8_rolling.gif" alt="They see me rolling">
+        <img src="./media/bb8-introduction/bb8_rolling.gif" alt="They see me rolling">
     </center>
 </section>
 
 <section>
     <center>
-        <img src="../media/bb8-introduction/bb8-justrolling.gif" alt="They hated">
+        <img src="./media/bb8-introduction/bb8-justrolling.gif" alt="They hated">
     </center>
 </section>
