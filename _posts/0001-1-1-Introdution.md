@@ -14,11 +14,8 @@ data:
 
 #### ICMC - USP
 
-##### Jahir Medina
-##### 10659682
-
 ###### Sao Carlos SP - Brasil
-###### {{ site.time | date: '%d %m %y' }}
+###### {{ site.time | date: '%d %b of %Y' }}
     
 </section>
 
