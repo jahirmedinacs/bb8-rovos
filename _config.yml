@@ -13,8 +13,8 @@ kramdown:
 #gems:
 #  - jemoji
 
-title:       BB-8
-author:      Jahir Medina
+title:       Markdown + Reveal.js
+author:      Jahir Medina - et. al.
 description: How it Works?
 
 sass:
